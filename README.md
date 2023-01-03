@@ -6,8 +6,8 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### 🌓"O conhecimento torna a alma jovem "🧑🏻‍🎨
 
-- 📍 From Itapevi living in  São Paulo 
--  👨🏻‍💻 Junior SQL Consultant at TechMahindra
+- 📍 From Itapevi 
+-  👨🏻‍💻 Back-End Developer at Ascential
 -  📘 Sharing a litlle of my Back-End journey at Github
 -  📘 Big Data Specialist
 
